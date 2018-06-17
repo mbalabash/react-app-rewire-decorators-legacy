@@ -4,12 +4,11 @@
   "description": "Add decorators to your CRA application.",
   "main": "index.js",
   "keywords": [
-    "react",
     "create-react-app",
-    "decorators",
     "react-app-rewired",
+    "decorators",
     "webpack",
-    "@babel/plugin-proposal-decorators"
+    "react"
   ],
   "license": "MIT",
   "author": "mbalabash <maksim.balabash@gmail.com>",

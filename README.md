@@ -1,4 +1,4 @@
-# This module is specifically for Babel 6.x and replicates the old decorator behavior from Babel 5.
+# This module add stage 1 decorators syntax and behavior.
 
 ## Installation
 
@@ -13,8 +13,6 @@ npm install --save-dev react-app-rewire-decorators
 ```
 
 ## Usage
-
-legacy: true (Use the legacy (stage 1) decorators syntax and behavior. Defaults to false).
 
 ```js
 // config-overrides.js

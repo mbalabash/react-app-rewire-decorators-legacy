@@ -75,4 +75,4 @@ function enumerable(value) {
 }
 ```
 
-### More information about [decorators](https://cabbageapps.com/fell-love-js-decorators/)
+### More information about decorators [1](https://github.com/wycats/javascript-decorators/blob/master/README.md), [2](https://cabbageapps.com/fell-love-js-decorators/)

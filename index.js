@@ -5,5 +5,4 @@ function rewireDecorators(config, env) {
   config = injectBabelPlugin([pluginName, {}], config);
   return config;
 }
-
 module.exports = rewireDecorators;

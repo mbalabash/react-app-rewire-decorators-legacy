@@ -1,4 +1,4 @@
-# This module is specifically for Babel 6.x and replicates the old decorator behavior from Babel 5. 
+# This module is specifically for Babel 6.x and replicates the old decorator behavior from Babel 5.
 
 ## Installation
 
@@ -55,8 +55,10 @@ class MyComponent extends
 class MyClass {}
 
 function isTestable(value) {
-  return function decorator(target) {
-    target.prototype.isTestable = value;
+  return function decorator(Target) {
+    return class extends Target {
+      isTestable = `isTestable: ${value}`;
+    };
   };
 }
 ```

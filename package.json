@@ -13,12 +13,12 @@
   "license": "MIT",
   "author": "mbalabash <maksim.balabash@gmail.com>",
   "homepage": "https://github.com/mbalabash/react-app-rewire-decorators-legacy#readme",
+  "bugs": {
+    "url": "https://github.com/mbalabash/react-app-rewire-decorators-legacy/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mbalabash/react-app-rewire-decorators-legacy/"
-  },
-  "bugs": {
-    "url": "https://github.com/mbalabash/react-app-rewire-decorators-legacy/issues"
   },
   "dependencies": {
     "babel-plugin-transform-decorators-legacy": "^1.3.5",

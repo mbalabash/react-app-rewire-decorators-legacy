@@ -9,7 +9,7 @@ yarn add -D react-app-rewire-decorators-legacy
 OR
 
 ```
-npm install --save-dev react-app-rewire-decorators
+npm install --save-dev react-app-rewire-decorators-legacy
 ```
 
 ## Usage
